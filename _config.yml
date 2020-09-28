@@ -1,7 +1,7 @@
 # ---------------- #
 #   Main Configs   #
 # ---------------- #
-baseurl:
+baseurl: ""
 url: https://wzzlywzzl.github.io
 date_format: "ordinal"
 title: 王者之路
@@ -115,17 +115,17 @@ disqus:
   username:
 # https://imsun.net/posts/gitment-introduction/
 gitment:
-  owner: mzlogin
-  repo: blog-comments
+  owner: wzzlYwzzl
+  repo: garvey-blog
   oauth:
-    client_id: d2e1cbbd298958076462
-    client_secret: b42a4178e5fd4a7cf63189ef4b1453b05c375709
+    client_id: b1a4bf96d1cc667642df
+    client_secret: 253c44529e772ca8247c99ae0320b07507a75dac
 # https://github.com/gitalk/gitalk#install
 gitalk:
-  owner: mzlogin
-  repo: blog-comments
-  clientID: d2e1cbbd298958076462
-  clientSecret: b42a4178e5fd4a7cf63189ef4b1453b05c375709
+  owner: wzzlYwzzl
+  repo: garvey-blog
+  clientID: b1a4bf96d1cc667642df
+  clientSecret: 253c44529e772ca8247c99ae0320b07507a75dac
 # 在使用其它评论组件时可点击显示 Disqus
 lazy_load_disqus: false
 
