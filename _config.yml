@@ -123,7 +123,7 @@ gitment:
 # https://github.com/gitalk/gitalk#install
 gitalk:
   owner: wzzlYwzzl
-  repo: garvey-blog
+  repo: garvey-blog-comment
   clientID: b1a4bf96d1cc667642df
   clientSecret: 253c44529e772ca8247c99ae0320b07507a75dac
 # 在使用其它评论组件时可点击显示 Disqus
