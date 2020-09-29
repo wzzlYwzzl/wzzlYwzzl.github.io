@@ -1,18 +1,16 @@
 ---
 layout: page
 title: About
-description: 打码改变世界
-keywords: Zhuang Ma, 马壮
+description: 不断学习
+keywords: Jiawei Zhu , Garvey
 comments: true
 menu: 关于
 permalink: /about/
 ---
 
-我是马壮，码而生，码而立。
+我是 Garvey，性格比较内向的油腻中年。
 
-仰慕「优雅编码的艺术」。
-
-坚信熟能生巧，努力改变人生。
+喜欢钻研、学习，希望在技术的世界中寻求精神的满足。
 
 ## 联系
 
@@ -28,11 +26,12 @@ permalink: /about/
 {% endif %}
 </ul>
 
-
 ## Skill Keywords
 
 {% for skill in site.data.skills %}
+
 ### {{ skill.name }}
+
 <div class="btn-inline">
 {% for keyword in skill.keywords %}
 <button class="btn btn-outline" type="button">{{ keyword }}</button>
