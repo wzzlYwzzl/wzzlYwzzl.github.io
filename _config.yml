@@ -38,7 +38,7 @@ highlight_theme: github
 # ---------------- #
 #      Author      #
 # ---------------- #
-author: Zhu Garvey
+author: Garvey
 organization:
 organization_url:
 github_username: wzzlYwzzl
@@ -116,7 +116,7 @@ disqus:
 # https://imsun.net/posts/gitment-introduction/
 gitment:
   owner: wzzlYwzzl
-  repo: garvey-blog
+  repo: garvey-blog-comment
   oauth:
     client_id: b1a4bf96d1cc667642df
     client_secret: 253c44529e772ca8247c99ae0320b07507a75dac
